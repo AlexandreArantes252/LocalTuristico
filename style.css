@@ -1,0 +1,130 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  background-color:rgb(243, 243, 243);
+}
+
+#page {
+  width: 1280px;
+  height: 3279px;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  margin: 48px auto 28px;
+}
+
+main {
+  padding: 88px 80px 137px 80px;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 28px;
+  padding-bottom: 4px;
+}
+
+h4 {
+  color: #E1624F;
+  font-size: 16px;
+  text-transform: uppercase;
+  padding-bottom: 8px;
+}
+
+img {
+  border-radius: 28px;
+}
+
+#Busan {
+  padding-top: 40px;
+}
+
+figcaption {
+  padding-top: 24px;
+  text-align: center;
+  text-transform: inherit;
+  font-style: italic;
+  font-size: 16px;
+  padding-bottom: 40px;
+}
+
+.divider {
+  width: 100%;
+  height: 1px;
+  background-color: #d9d9d9;
+  margin-bottom: 64px;
+}
+
+p, figcaption {
+  color: #333333;
+}
+
+.historia {
+  padding-bottom: 2px;
+}
+
+.historia-titulo {
+  padding-top: 8px;
+  padding-bottom: 64px;
+}
+
+ul {
+  padding-left: 20px;
+  font-size: 12px;
+  padding-bottom: 48px;
+  font-weight: bold;
+}
+
+a {
+  font-size: 16px;
+  color: #0C51A7;
+}
+
+.lista {
+ Font-size: 16px;
+}
+
+.casais {
+  color: purple;
+}
+
+.familias {
+  color: red;
+}
+
+.orcamento {
+  color: orange;
+}
+
+.divider-footer {
+  width: 100%;
+  height: 1px;
+  background-color: #d9d9d9;
+  margin-bottom: 40px;
+}
+
+.footer {
+  text-align: center;
+  margin-bottom: 65px;
+}
+
+footer {
+  text-align: center;
+  margin: auto;
+}
+
+footer img {
+  vertical-align: middle;
+}
